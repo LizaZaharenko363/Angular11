@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="greetingTitle" datatype="html">
+        <source>Angular (web framework)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/greeting/greeting.component.html</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="greetingMessage" datatype="html">
+        <source>Angular (also referred to as &quot;Angular 2+&quot;) is a TypeScript-based free and open-source single-page web application framework. It is developed by Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS. The Angular ecosystem consists of a diverse group of over 1.7 million developers, library authors, and content creators. According to the Stack Overflow Developer Survey, Angular is one of the most commonly used web frameworks.
+</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/greeting/greeting.component.html</context>
+          <context context-type="linenumber">4,10</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

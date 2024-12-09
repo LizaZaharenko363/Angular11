@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="greetingTitle" datatype="html">
+        <source>Angular (вебфреймворк)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/greeting/greeting.component.html</context>
+          <context context-type="linenumber">3,4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="greetingMessage" datatype="html">
+        <source>Angular (також відомий як &quot;Angular 2+&quot;) це безкоштовний фреймворк односторінкових веб-додатків на основі TypeScript з відкритим вихідним кодом, що працює на Node.js. Його розробкою займається Angular Team у складі Google, а також спільнота приватних осіб і корпорацій. Angular повністю переписаний тією ж командою, яка створила AngularJS. Екосистема Angular складається з різноманітної групи з понад 1.7 мільйона розробників, авторів бібліотек та творців контенту.
+</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/greeting/greeting.component.html</context>
+          <context context-type="linenumber">4,10</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
